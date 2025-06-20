@@ -1,5 +1,3 @@
-# Quantium-Data-Analytics-Job-Simulation
-
 # Trial Store Performance & Customer Segmentation Analysis
 
 This project evaluates the effectiveness of a retail trial across selected stores by analyzing customer behavior and sales performance. In addition to assessing the overall impact of the trial, we explore how different **customer segments** responded to the changes, focusing on **purchase behavior by segment** and **product category performance** (especially chips).
