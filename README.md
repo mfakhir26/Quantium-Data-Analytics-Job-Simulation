@@ -45,7 +45,7 @@ For each segment, we tracked:
 * Response to trial interventions
 * Contribution to overall sales lift
 
-## 🛒 Key Features
+## Key Features
 
 * Automated control store selection using similarity scores
 * Visualization of trends over time by trial/control and customer segment
@@ -53,24 +53,7 @@ For each segment, we tracked:
 * Segment-wise analysis of **category lift**, with focus on **Chips**, **Soft Drinks**, etc.
 * Presentation-ready outputs with graphs and insights
 
-## 📁 Project Structure
-
-```
-📂 Trial_Store_Analysis/
-├── data/                   # Raw and cleaned data
-├── notebooks/              # Trial and segment-specific notebooks
-│   └── trial_store_77.ipynb
-│   └── customer_segment_analysis.ipynb
-├── functions/              # Reusable Python functions
-│   └── find_control_store.py
-│   └── plot_comparison.py
-├── outputs/                # Visuals and tables for reporting
-│   └── graphs/
-│   └── summary_by_segment/
-└── README.md
-```
-
-## 📈 Summary of Results
+## Summary of Results
 
 * **Sales Impact:**
   All three trial stores showed improved sales and customer metrics vs. control.
